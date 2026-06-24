@@ -1,2 +1,3 @@
-# demo-shahe-hair-salon
-Tailored local business demo website for Shahe Hair Salon.
+# Shahe Hair Salon demo
+
+Tailored local business website demo. Uses stock-style placeholder imagery, not copied Instagram posts.
